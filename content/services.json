@@ -1,0 +1,15 @@
+{
+  "eyebrow": { "tr": "Yetkinliklerim", "en": "Expertise" },
+  "title1": { "tr": "Uzman olduğum", "en": "What I" },
+  "title2": { "tr": "alanlar", "en": "specialise in" },
+  "items": [
+    { "title": { "tr": "Web Tasarım", "en": "Web Design" }, "desc": { "tr": "Otellere özel sektörel web sayfası ve SEO çalışmasıyla her zaman ön planda olan modern tasarımlar.", "en": "Industry-specific websites for hotels, built with SEO in mind to keep you in front." } },
+    { "title": { "tr": "SEO Optimizasyonu", "en": "SEO Optimisation" }, "desc": { "tr": "Özel SEO çalışmasıyla Google sıralamalarında rakip firmaları geride bırakacak yenilikçi çalışmalar.", "en": "Tailored SEO work that moves you up Google rankings and ahead of competitors." } },
+    { "title": { "tr": "Hibrit Uygulamalar", "en": "Hybrid Operations" }, "desc": { "tr": "Uzaktan otel ve sosyal medya yönetimi ile destekleyici ve çözüm odaklı organizasyonlar.", "en": "Remote hotel and social media management with supportive, solution-focused organisation." } },
+    { "title": { "tr": "Veri Yönetimi", "en": "Data Management" }, "desc": { "tr": "Müşteri, satış ve reklam verileri analizi ile güncel ve analitik çözümler.", "en": "Up-to-date, analytical solutions from customer, sales and advertising data." } },
+    { "title": { "tr": "Sosyal Medya & Dijital Pazarlama", "en": "Social Media & Digital Marketing" }, "desc": { "tr": "Firma ve hizmetlere yönelik özel reklam ve medya görselleri ile ön plana çıkaran içerikler.", "en": "Custom ad and media visuals that put your business and services in the spotlight." } },
+    { "title": { "tr": "Reklam Yönetimi", "en": "Ad Management" }, "desc": { "tr": "Google ve Meta reklamlarında SEO destekli, bölgesel ve küresel reklam çalışmaları.", "en": "SEO-backed regional and global campaigns on Google and Meta." } },
+    { "title": { "tr": "Özel Web Domain", "en": "Custom Web Domain" }, "desc": { "tr": "Kalıcı ve firmaya değer katan özel domain adresleri ile host bağlantı desteği ve güncellemeleri.", "en": "Lasting domain names that add value to your brand, with hosting setup and updates." } },
+    { "title": { "tr": "Satış Stratejileri", "en": "Sales Strategy" }, "desc": { "tr": "Hizmetlere ve bölgeye özel satış stratejileri ve kampanyalar oluşturma.", "en": "Sales strategies and campaigns tailored to your services and region." } }
+  ]
+}

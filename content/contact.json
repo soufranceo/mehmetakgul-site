@@ -1,0 +1,11 @@
+{
+  "eyebrow": { "tr": "İletişim", "en": "Contact" },
+  "title1": { "tr": "Birlikte", "en": "Let's work" },
+  "title2": { "tr": "çalışalım.", "en": "together." },
+  "phone_display": "+90 553 349 18 10",
+  "whatsapp_number": "905533491810",
+  "whatsapp_message": { "tr": "Size web sayfanızdan ulaşıyorum", "en": "Size web sayfanızdan ulaşıyorum" },
+  "email": "tr.mehmetakgül@gmail.com",
+  "location": { "tr": "Türkiye", "en": "Türkiye" },
+  "background": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=2000&q=80"
+}

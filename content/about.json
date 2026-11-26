@@ -1,0 +1,17 @@
+{
+  "photo": "/images/mehmet-akgul.webp",
+  "name1": "Mehmet",
+  "name2": "Akgül",
+  "years": "17+",
+  "badge": { "tr": "Yıl tecrübe", "en": "Years of experience" },
+  "eyebrow": { "tr": "Hakkımda", "en": "About" },
+  "lead": { "tr": "Turizm sektöründe 17 yılı aşkın tecrübemle ulaştırma ve acente işletmeciliği, konaklama tesisi yönetimi, suite home işletmeciliği, restoran işletmeciliği ve otel yöneticiliği alanlarında çok yönlü bir kariyer inşa ettim.", "en": "With more than 17 years in tourism, I have built a versatile career across transport and travel agency operations, accommodation management, suite home operations, restaurant management and hotel management." },
+  "text": { "tr": "Kendimi front-end ve tasarım alanında turizm sektörü odaklı geliştirdim. Halen otel müdürlüğü yapmakta ve hibrit iş modeli ile birçok işletmeye ve yabancı firmaya uzaktan aktif destek vermekteyim.", "en": "I have trained myself in front-end development and design with a focus on tourism. I currently work as a hotel manager and, through a hybrid model, actively support many businesses and international companies remotely." },
+  "timeline": [
+    { "tr": "Ulaştırma & acente işletmeciliği", "en": "Transport & travel agency operations" },
+    { "tr": "Konaklama tesisi yönetimi", "en": "Accommodation management" },
+    { "tr": "Suite home işletmeciliği", "en": "Suite home operations" },
+    { "tr": "Restoran işletmeciliği", "en": "Restaurant management" },
+    { "tr": "Otel müdürlüğü", "en": "Hotel management" }
+  ]
+}

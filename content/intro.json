@@ -1,0 +1,22 @@
+{
+  "manifesto": { "tr": "17 yılı aşkın turizm tecrübesini modern tasarım ve dijital stratejiyle birleştiriyorum. Doğa ve şehir otellerinde misafirlerinize unutulmaz bir deneyim, işletmenize ise ölçülebilir büyüme.", "en": "I combine more than 17 years of tourism experience with modern design and digital strategy. An unforgettable stay for your guests in nature and city hotels, and measurable growth for your business." },
+  "stats": [
+    { "prefix": "", "number": 17, "suffix": "+", "label": { "tr": "Yıl sektör tecrübesi", "en": "Years in the industry" } },
+    { "prefix": "%", "number": 100, "suffix": "", "label": { "tr": "Müşteri memnuniyeti", "en": "Customer satisfaction" } },
+    { "prefix": "", "number": 8, "suffix": "", "label": { "tr": "Uzmanlık alanı", "en": "Areas of expertise" } }
+  ],
+  "marquee": [
+    { "tr": "Otel Yönetimi", "en": "Hotel Management" },
+    { "tr": "Web Tasarım", "en": "Web Design" },
+    { "tr": "SEO", "en": "SEO" },
+    { "tr": "Sosyal Medya", "en": "Social Media" },
+    { "tr": "Reklam Yönetimi", "en": "Ad Management" },
+    { "tr": "Satış Stratejileri", "en": "Sales Strategy" }
+  ],
+  "image_a": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=1200&q=80",
+  "caption_a": { "tr": "%100 müşteri memnuniyeti", "en": "100% customer satisfaction" },
+  "image_b": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+  "caption_b": { "tr": "Doğa ve şehir otellerinde konaklama", "en": "Stays in nature and city hotels" },
+  "title1": { "tr": "Her misafir", "en": "Every guest" },
+  "title2": { "tr": "özel hissetmeli.", "en": "should feel special." }
+}

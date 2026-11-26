@@ -1,0 +1,12 @@
+{
+  "eyebrow": { "tr": "Seçilmiş işler", "en": "Selected work" },
+  "title1": { "tr": "Projelerimizden", "en": "Examples from" },
+  "title2": { "tr": "örnekler", "en": "our projects" },
+  "cta1": { "tr": "Sıradaki proje", "en": "Let the next project" },
+  "cta2": { "tr": "sizinki olsun", "en": "be yours" },
+  "items": [
+    { "image": "https://i.hizliresim.com/du1zizk.png", "title": { "tr": "Modern Otel Web Tasarım", "en": "Modern Hotel Web Design" }, "desc": { "tr": "Modernize ve minimalist otel tasarımı ile harika görseller ve %100 SEO uyumlu otel web sayfası ve reklam çalışması.", "en": "Modern, minimalist hotel websites with striking visuals, fully SEO-ready pages and ad campaigns." } },
+    { "image": "https://i.hizliresim.com/dk4kbz4.png", "title": { "tr": "Otel Odaları ve Ürün Çekimleri", "en": "Hotel Room & Product Photography" }, "desc": { "tr": "İsteğe ve konsepte uygun oda görselleri ve ürün çekimleri ile hem Google'da hem de kendi sosyal medyalarınızda ön plana çıkın.", "en": "Room and product shoots tailored to your concept so you stand out on Google and on your own social media." } },
+    { "image": "https://i.hizliresim.com/70v6t2f.jpg", "title": { "tr": "Otel Restoran Menü Tasarımları", "en": "Hotel Restaurant Menu Design" }, "desc": { "tr": "Otel restoranlarına uygun menü ve görsel tasarımlar ile ilgi çekici, misafirlerinizi özel hissettiren tasarımlar.", "en": "Menu and visual design for hotel restaurants that catches the eye and makes your guests feel special." } }
+  ]
+}
