@@ -4,6 +4,9 @@
 
 [build.environment]
   NODE_VERSION = "20"
+  # The admin username is not a secret and appears in paths like /admin/,
+  # so Netlify's secret scan must not stop the build because of it.
+  SECRETS_SCAN_OMIT_KEYS = "ADMIN_USER"
 
 [functions]
   directory = "netlify/functions"
